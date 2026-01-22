@@ -66,7 +66,7 @@ The goal is to identify revenue drivers, customer purchasing behavior, and strat
 
 📌 Brand-wise Revenue Contribution:
 
-<img width="792" height="359" alt="Brand wise Revenue" src="https://github.com/user-attachments/assets/03e47238-5fec-413f-b719-7058c555d308" />
+<img width="788" height="358" alt="Brand wise Revenue" src="https://github.com/user-attachments/assets/4e05afc8-cbab-43d4-b9b1-8c2efacd1c06" />
 
 
 📌 Revenue & Sales Analysis:
