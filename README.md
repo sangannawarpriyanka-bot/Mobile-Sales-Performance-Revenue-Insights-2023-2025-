@@ -1,6 +1,6 @@
 # 📊 Smartphone Sales & Revenue Analytics Dashboard  
 
-<img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/b000de9d-0a5e-4ab4-bb54-91355f0e45c9" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/2923ac11-9ffc-4868-94b8-6a661f2c7929" />
 
 
 🚀 An end-to-end data analytics project analyzing smartphone brand performance, revenue trends, pricing impact, and country-wise insights using Tableau.
